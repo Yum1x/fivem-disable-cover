@@ -14,3 +14,14 @@ CreateThread(function()
         Wait(2000) -- 2 seconds is a fine delay for preserve user/pc performance.
     end
 end)
+
+--[[
+
+    !!! OPTIONAL !!!
+    If you want disable Cover permanently remove the code above and uncomment the code below
+
+    CreateThread(function()
+        SetPlayerCanUseCover(PlayerId(), false)
+    end)
+
+]]
