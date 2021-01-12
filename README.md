@@ -20,3 +20,5 @@ As in GTA V the bullet trajectory is calculated using the reticule, some visual 
 * Clone the repository or [download the master archive](https://github.com/Yum1x/fivem-disable-cover/archive/master.zip).
 * Copy the block-cover directory to the resources folder.
 * Add block-cover to the loading resource list.
+
+> FiveM Forum: https://forum.cfx.re/t/disable-cover-inside-an-interior-prevent-pvp-advantages/2026910
